@@ -5,7 +5,7 @@
 
 📍 Dhaka, Bangladesh  
 📧 dibakorroy56@gmail.com  
-🔗[LinkedIn](https://www.linkedin.com/dibakorroy) | [GitHub](https://github.com/DibakorRoy46)
+🔗[LinkedIn](https://www.linkedin.com/in/dibakorroy) | [GitHub](https://github.com/DibakorRoy46)
 
 ---
 
