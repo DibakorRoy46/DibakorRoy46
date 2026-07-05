@@ -83,13 +83,4 @@ RESTful B2B ordering platform for retail partners with real-time Firebase synchr
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DibakorRoy46&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DibakorRoy46&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Open to discussing distributed systems, .NET architecture, and enterprise integration work.</i></p>
